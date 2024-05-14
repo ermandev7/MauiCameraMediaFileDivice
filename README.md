@@ -1,7 +1,7 @@
 # MauiCameraMediaFileDivice
 
 ## Descripcion 
-En esta aplicacion se usa la camra del dispositivo android y windows  
+En esta aplicacion se usa la camara del dispositivo android y windows  
 
 ## Configuración de Android Manifest
 
