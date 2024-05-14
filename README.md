@@ -27,6 +27,4 @@ A continuación se muestra el `AndroidManifest.xml` necesario para la aplicació
 </manifest>
 ```
 
-## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - mira el archivo [LICENSE.md](https://www.youtube.com/watch?v=aUbasIfag-E) para detalles
